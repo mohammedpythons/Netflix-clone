@@ -1,0 +1,30 @@
+.row {
+  color: white;
+  margin-left: 20px;
+}
+.row_posters {
+  display: flex;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  padding: 20px;
+}
+/* this line below says to all the browsers diplay none the scrollbar but keep the functionality of it */
+.row_posters::-webkit-scrollbar {
+  display: none;
+}
+.row_poster {
+  object-fit: contain;
+  width: 100%;
+  max-height: 100px;
+  margin-right: 10px;
+  transition: transform 250ms;
+}
+.row_poster:hover {
+  transform: scale(1.08);
+}
+.row_posterlarge {
+  max-height: 250px;
+}
+.row_posterlarge:hover {
+  transform: scale(1.09);
+}
