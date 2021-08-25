@@ -1,4 +1,4 @@
-## Netflix clone is a single page app that has been built with react.js
+## Netflix clone is a single page app that has been built with react.js using Netflix API
 
 <img width="1418" alt="Screen Shot 2021-08-25 at 3 51 19 PM" src="https://user-images.githubusercontent.com/69409540/130856320-525377b7-9e25-4175-a78e-c0ecc134854a.png">
 ##
