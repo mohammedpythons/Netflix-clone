@@ -8,7 +8,6 @@ export default function Nav() {
             className="nav__logo"
             src=""
             alt="netflex logo"/>
-
         </nav>
     )
 }
