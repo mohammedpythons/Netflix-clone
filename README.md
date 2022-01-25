@@ -1,3 +1,12 @@
+## Netflix clone is a single page app that has been built with react.js using Netflix API
+
+<img width="1418" alt="Screen Shot 2021-08-25 at 3 51 19 PM" src="https://user-images.githubusercontent.com/69409540/130856320-525377b7-9e25-4175-a78e-c0ecc134854a.png">
+##
+
+<img width="1394" alt="Screen Shot 2021-08-25 at 3 51 50 PM" src="https://user-images.githubusercontent.com/69409540/130856423-c8114ee4-90ca-4a1c-948e-48ba232dc002.png">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
